@@ -39,4 +39,6 @@ As darknet markets evolve, Nexus Darknet remains a top contender for anyone seek
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/third-party/new.webp" style="max-width: 100%;"></a>
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/third-party/quiet.webp" style="max-width: 100%;"></a>
 
-Update:  09/14/2025
+
+
+Update:  18 September 2025
